@@ -160,7 +160,7 @@ class MyApp extends StatelessWidget {
                   children: [
                     Container(
                       child: Image.network(
-                        'https://file2.nocutnews.co.kr/newsroom/image/2022/11/27/202211271811201764_0.jpg',
+                        'https://i.namu.wiki/i/IT8mmgeYY-28JcWuQLC0YnWxLrer5-OcbqKNwiAG-nE5DWLJPTZIO2esZ4OV_5Ph8N6AssmSpIqRXoM_kSxUyoaXykkB_EaUoSTofIsLnIudhYvDSR4zVi1F3u_rRl_tv13aBCZTDndxRj81eSAp-w.webp',
                         fit: BoxFit.cover,
                       ),
                       // 영상,
@@ -192,7 +192,7 @@ class MyApp extends StatelessWidget {
                         child: SizedBox(
                           child: ClipOval(
                             child: Image.network(
-                              'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCnXNukjRxXGD8aeZGRV-lYg&psig=AOvVaw0lIi40qYLeWCIv9PhkrTMX&ust=1712320990260000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC4xPXKqIUDFQAAAAAdAAAAABAE',
+                              'https://i.namu.wiki/i/IT8mmgeYY-28JcWuQLC0YnWxLrer5-OcbqKNwiAG-nE5DWLJPTZIO2esZ4OV_5Ph8N6AssmSpIqRXoM_kSxUyoaXykkB_EaUoSTofIsLnIudhYvDSR4zVi1F3u_rRl_tv13aBCZTDndxRj81eSAp-w.webp',
                               fit: BoxFit.cover,
                             ),
                           ),
